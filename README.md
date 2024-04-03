@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Charankumar H, working as a Lead SDET in Gojek
+Hi 👋, I'm Charankumar H, working as a Lead SDET in [Zeta](https://www.zeta.tech/in/)
 
 
 ## 🌐 Socials:
