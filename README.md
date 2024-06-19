@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I'm a passionate Lead SDET working predominantly in Java and Test Automation. I love creating robust test frameworks and tools and improving test processes to enhance software quality and reliability. Feel free to reach out for collaborations!
+:telescope: I'm a passionate Lead SDET working predominantly in Java and Test Automation. I love creating robust test frameworks and tools and improving test processes to enhance software quality and reliability. Feel free to reach out for collaborations!
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
