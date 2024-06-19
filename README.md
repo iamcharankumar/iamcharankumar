@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/charankumar-h/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
   </a>
-  <a href="https://github.com/iamcharankumar">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)" alt="Github Badge"/>
-  </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blue" alt=""/>
   </div>
