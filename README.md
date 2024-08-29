@@ -49,6 +49,10 @@
 <div id="blogs">
   <ol>
     <li>
+      <a href = "https://www.linkedin.com/feed/update/urn:li:activity:7234854277964308481/">
+        Playwright Test Framework
+      </a>
+    <li>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7182290277032771584/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7182290277032771584%29">
         Web Test Framework
       </a>
