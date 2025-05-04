@@ -43,21 +43,21 @@ I'm passionate about creating robust test frameworks and tools that enhance soft
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![REST Assured](https://img.shields.io/badge/REST_Assured-5849be?style=for-the-badge)
   ![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge)
-  ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
   
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
   
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamcharankumar&bg_color=ffffff&color=0891b2&line=0891b2&point=403d3d&area=true&area_color=c3e7ee&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ## 📚 Featured Blog Posts
@@ -79,7 +79,7 @@ I'm passionate about creating robust test frameworks and tools that enhance soft
       <h3 align="center">Web Test Framework</h3>
       <p align="center">
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7182290277032771584/" target="_blank">
-          <img src="https://blog.testproject.io/wp-content/uploads/2021/03/Hybrid-Framework.gif" width="100%" alt="Web Testing"/>
+          <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif" width="100%" alt="Web Testing"/>
         </a>
         <p align="center">
           Modern approaches to web testing automation with best practices
@@ -92,7 +92,7 @@ I'm passionate about creating robust test frameworks and tools that enhance soft
       <h3 align="center">API Test Framework</h3>
       <p align="center">
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7184550165326807040/" target="_blank">
-          <img src="https://miro.medium.com/max/1400/1*3u9_v4S7mGdX-XN8GUUuUw.gif" width="100%" alt="API Testing"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZmdzhzaXRja3RkNGF2bmUyMDQ5bHQzOGk5MmRrdm93aHZmOHE4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="100%" alt="API Testing"/>
         </a>
         <p align="center">
           Building a scalable API testing framework for modern applications
@@ -103,7 +103,7 @@ I'm passionate about creating robust test frameworks and tools that enhance soft
       <h3 align="center">Check out more on my profile!</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/charankumar-h/" target="_blank">
-          <img src="https://i.pinimg.com/originals/8a/76/20/8a7620ebad9a632037e3ee72e3fc4d1d.gif" width="100%" alt="More Content"/>
+          <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" width="100%" alt="More Content"/>
         </a>
         <p align="center">
           Follow me for more content on test automation and quality engineering
