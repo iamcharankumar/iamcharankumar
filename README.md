@@ -1,77 +1,147 @@
-<div id="header" align="center">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Charankumar H!
+
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges" >
+  
+  <br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charankumar-h/)
+  [![Profile Views](https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blueviolet)](https://github.com/charankumarh)
+
+  ### Lead SDET at [Zeta](https://www.zeta.tech/in/) | Test Automation Expert
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Test+Automation+Specialist;API+Testing+Expert;Continuous+Integration+Enthusiast;Quality+Engineering+Leader" alt="Typing SVG" />
+</div>
+
+## 💫 About Me
+
+```java
+public class AboutMe {
+    String[] currentFocus = {"Test Automation", "Framework Development", "CI/CD Integration"};
+    String[] expertise = {"Java", "Selenium", "Playwright", "API Testing", "Test Architecture"};
+    
+    public String getCurrentRole() {
+        return "Lead SDET @ Zeta";
+    }
+    
+    public String getFunFact() {
+        return "I believe great testing is an art that requires both technical excellence and creative thinking";
+    }
+}
+```
+
+I'm passionate about creating robust test frameworks and tools that enhance software quality and reliability. I specialize in designing scalable automation solutions that integrate seamlessly with modern development workflows.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+  ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![REST Assured](https://img.shields.io/badge/REST_Assured-5849be?style=for-the-badge)
+  ![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge)
+  ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</div>
+
+## 📚 Featured Blog Posts
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Playwright Test Framework</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7234854277964308481/" target="_blank">
+          <img src="https://www.lambdatest.com/resources/images/news24.gif" width="100%" alt="Playwright Testing"/>
+        </a>
+        <p align="center">
+          A comprehensive guide to building an efficient Playwright test framework
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Web Test Framework</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7182290277032771584/" target="_blank">
+          <img src="https://blog.testproject.io/wp-content/uploads/2021/03/Hybrid-Framework.gif" width="100%" alt="Web Testing"/>
+        </a>
+        <p align="center">
+          Modern approaches to web testing automation with best practices
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">API Test Framework</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7184550165326807040/" target="_blank">
+          <img src="https://miro.medium.com/max/1400/1*3u9_v4S7mGdX-XN8GUUuUw.gif" width="100%" alt="API Testing"/>
+        </a>
+        <p align="center">
+          Building a scalable API testing framework for modern applications
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Check out more on my profile!</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/charankumar-h/" target="_blank">
+          <img src="https://i.pinimg.com/originals/8a/76/20/8a7620ebad9a632037e3ee72e3fc4d1d.gif" width="100%" alt="More Content"/>
+        </a>
+        <p align="center">
+          Follow me for more content on test automation and quality engineering
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamcharankumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcharankumar&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcharankumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 💡 Quote of the Day
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
   <a href="https://www.linkedin.com/in/charankumar-h/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blue" alt=""/>
-  </div>
-  <h1>
-  Hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <h3>I'm Charankumar H, working as a Lead SDET in <a href="https://www.zeta.tech/in/">Zeta</a></h3>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-:telescope: I'm a passionate Lead SDET working predominantly in Java and Test Automation. I love creating robust test frameworks and tools and improving test processes to enhance software quality and reliability. Feel free to reach out for collaborations!
-
----
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven"  alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title=""  alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab"  alt="Gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="JIRA"  alt="JIRA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger"  alt="Swagger" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-line-wordmark.svg" title="Kubernets"  alt="Kubernets" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers!</b> If you want to collaborate on a project or just say hi, feel free to reach out!</em>
 </div>
-
----
-### :writing_hand: Blog Posts :
-<div id="blogs">
-  <ol>
-    <li>
-      <a href = "https://www.linkedin.com/feed/update/urn:li:activity:7234854277964308481/">
-        Playwright Test Framework
-      </a>
-    <li>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7182290277032771584/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7182290277032771584%29">
-        Web Test Framework
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7184550165326807040/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7184550165326807040%29">
-        API Test Framework
-      </a>
-    </li>
-  </ol>
-</div>
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamcharankumar&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamcharankumar&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcharankumar&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
