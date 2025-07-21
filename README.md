@@ -11,7 +11,7 @@
 
   ## 🤝 Contributor Highlight
 
-  Proud contributor to [mcp-selenium](https://github.com/angiejones/mcp-selenium/pull/26), a Claude-native Selenium MCP server maintained by Angie Jones.
+  Proud contributor to [mcp-selenium](https://github.com/angiejones/mcp-selenium/pull/26), a Claude-native Selenium MCP server maintained by [Angie Jones](https://github.com/angiejones).
 
   ### Lead SDET at [Zeta](https://www.zeta.tech/in/) | Test Automation Expert
   
