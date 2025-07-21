@@ -9,9 +9,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charankumar-h/)
   [![Profile Views](https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blueviolet)](https://github.com/charankumarh)  
 
-  ## 🤝 Contributor Highlight
+  ## 🤝 OSS Contributor Highlight
 
-  Proud contributor to [mcp-selenium](https://github.com/angiejones/mcp-selenium/pull/26), a Claude-native Selenium MCP server maintained by [Angie Jones](https://github.com/angiejones).
+Proud contributor to [mcp-selenium](https://github.com/angiejones/mcp-selenium/pull/26), a Claude-native Selenium MCP server maintained by [Angie Jones](https://github.com/angiejones).<br><br>
+Proud contributor to [playcraft](https://github.com/sudharsan-selvaraj/playcraft), a Visual Playwright IDE with live browser preview and real-time test execution. [PR 1](https://github.com/sudharsan-selvaraj/playcraft/pull/2), [PR 2](https://github.com/sudharsan-selvaraj/playcraft/pull/6)</align> 
 
   ### Lead SDET at [Zeta](https://www.zeta.tech/in/) | Test Automation Expert
   
