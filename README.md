@@ -4,9 +4,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <br>
-  
+
+  [![Contributor](https://img.shields.io/badge/Contributed%20To-mcp--selenium-blue?style=flat-square&logo=github)](https://github.com/angiejones/mcp-selenium/pull/26)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charankumar-h/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blueviolet)](https://github.com/charankumarh)
+  [![Profile Views](https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blueviolet)](https://github.com/charankumarh)  
+
+  ## 🤝 Contributor Highlight
+
+  Proud contributor to [mcp-selenium](https://github.com/angiejones/mcp-selenium/pull/26), a Claude-native Selenium MCP server maintained by Angie Jones.
 
   ### Lead SDET at [Zeta](https://www.zeta.tech/in/) | Test Automation Expert
   
