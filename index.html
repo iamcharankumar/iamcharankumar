@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charankumar H - Portfolio</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        background-color: #0d1117;
+        color: #c9d1d9;
+      }
+      header {
+        text-align: center;
+        padding: 50px 20px;
+        background: linear-gradient(135deg, #6cc644, #0077b5);
+        color: white;
+      }
+      header img.profile-gif {
+        width: 120px;
+        border-radius: 50%;
+        margin-bottom: 15px;
+      }
+      h1 {
+        font-size: 2.8em;
+        margin-bottom: 10px;
+      }
+      .badges img {
+        margin: 5px;
+        vertical-align: middle;
+      }
+      section {
+        max-width: 1000px;
+        margin: 40px auto;
+        padding: 25px;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 15px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(10px);
+      }
+      h2 {
+        color: #58a6ff;
+        border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+        padding-bottom: 8px;
+      }
+      pre {
+        background: #161b22;
+        color: #fff;
+        padding: 15px;
+        border-radius: 8px;
+        overflow-x: auto;
+      }
+      code {
+        font-family: "Courier New", monospace;
+      }
+      .tech-stack img {
+        margin: 8px;
+        height: 32px;
+        transition: transform 0.3s ease;
+      }
+      .tech-stack img:hover {
+        transform: scale(1.15);
+      }
+      .blog-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+      }
+      .blog-card {
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 10px;
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .blog-card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      }
+      .blog-card img {
+        width: 100%;
+        height: auto;
+      }
+      .blog-card p {
+        padding: 10px;
+        text-align: center;
+      }
+      .center {
+        text-align: center;
+      }
+      footer {
+        text-align: center;
+        padding: 20px;
+        background: rgba(255, 255, 255, 0.05);
+        margin-top: 40px;
+      }
+      footer img {
+        vertical-align: middle;
+      }
+      a {
+        color: #58a6ff;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img
+        src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+        class="profile-gif"
+        alt="Profile Animation"
+      />
+      <h1>👋 Hello, I'm Charankumar H!</h1>
+      <div class="badges">
+        <a href="https://github.com/angiejones/mcp-selenium/pull/26"
+          ><img
+            src="https://img.shields.io/badge/Contributed%20To-mcp--selenium-blue?style=flat-square&logo=github"
+        /></a>
+        <a href="https://www.linkedin.com/in/charankumar-h/"
+          ><img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        /></a>
+        <img
+          src="https://komarev.com/ghpvc/?username=charankumarh&style=flat-square&color=blueviolet"
+        />
+      </div>
+      <p>
+        Lead SDET at
+        <a href="https://www.zeta.tech/in/" style="color: white">Zeta</a> | Test
+        Automation Expert
+      </p>
+    </header>
+
+    <section>
+      <h2>🤝 OSS Contributor Highlight</h2>
+      <p>
+        Proud contributor to
+        <a href="https://github.com/angiejones/mcp-selenium/pull/26"
+          >mcp-selenium</a
+        >, a Claude-native Selenium MCP server maintained by
+        <a href="https://github.com/angiejones">Angie Jones</a>.
+      </p>
+      <p>
+        Proud contributor to
+        <a href="https://github.com/sudharsan-selvaraj/playcraft">playcraft</a>,
+        a Visual Playwright IDE with live browser preview and real-time test
+        execution.
+        <a href="https://github.com/sudharsan-selvaraj/playcraft/pull/2">PR 1</a
+        >,
+        <a href="https://github.com/sudharsan-selvaraj/playcraft/pull/6"
+          >PR 2</a
+        >
+      </p>
+    </section>
+
+    <section>
+      <h2>💫 About Me</h2>
+      <pre><code>public class AboutMe {
+    String[] currentFocus = {"Test Automation", "Framework Development", "CI/CD Integration"};
+    String[] expertise = {"Java", "Selenium", "Playwright", "API Testing", "Test Architecture"};
+    
+    public String getCurrentRole() {
+        return "Lead SDET @ Zeta";
+    }
+    
+    public String getFunFact() {
+        return "I believe great testing is an art that requires both technical excellence and creative thinking";
+    }
+}</code></pre>
+      <blockquote>
+        I'm passionate about creating robust test frameworks and tools that
+        enhance software quality and reliability. I specialize in designing
+        scalable automation solutions that integrate seamlessly with modern
+        development workflows.
+      </blockquote>
+    </section>
+
+    <section>
+      <h2>🛠️ Tech Stack</h2>
+      <div class="center tech-stack">
+        <img
+          src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/REST_Assured-5849be?style=for-the-badge"
+        />
+        <img
+          src="https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge"
+        />
+        <img
+          src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+        />
+      </div>
+    </section>
+
+    <section>
+      <h2>📈 Contribution Graph</h2>
+      <canvas id="contributionChart" height="120"></canvas>
+    </section>
+
+    <section>
+      <h2>📚 Featured Blog Posts</h2>
+      <div class="blog-grid">
+        <div class="blog-card">
+          <a
+            href="https://www.linkedin.com/feed/update/urn:li:activity:7234854277964308481/"
+            target="_blank"
+          >
+            <img
+              src="https://www.lambdatest.com/resources/images/news24.gif"
+              alt="Playwright Testing"
+            />
+          </a>
+          <p>
+            A comprehensive guide to building an efficient Playwright test
+            framework
+          </p>
+        </div>
+        <div class="blog-card">
+          <a
+            href="https://www.linkedin.com/feed/update/urn:li:activity:7182290277032771584/"
+            target="_blank"
+          >
+            <img
+              src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif"
+              alt="Web Testing"
+            />
+          </a>
+          <p>Modern approaches to web testing automation with best practices</p>
+        </div>
+        <div class="blog-card">
+          <a
+            href="https://www.linkedin.com/feed/update/urn:li:activity:7184550165326807040/"
+            target="_blank"
+          >
+            <img
+              src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+              alt="API Testing"
+            />
+          </a>
+          <p>
+            Building a scalable API testing framework for modern applications
+          </p>
+        </div>
+        <div class="blog-card">
+          <a href="https://www.linkedin.com/in/charankumar-h/" target="_blank">
+            <img
+              src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"
+              alt="More Content"
+            />
+          </a>
+          <p>
+            Follow me for more content on test automation and quality
+            engineering
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="center">
+      <h2>📊 GitHub Stats</h2>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=iamcharankumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+        height="180em"
+      />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iamcharankumar&theme=radical&hide_border=true"
+        height="180em"
+      />
+      <br />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcharankumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+      />
+    </section>
+
+    <section class="center">
+      <h2>💡 Quote of the Day</h2>
+      <img
+        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+        alt="Quote"
+      />
+    </section>
+
+    <section class="center">
+      <h2>🤝 Let's Connect!</h2>
+      <a href="https://www.linkedin.com/in/charankumar-h/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        />
+      </a>
+    </section>
+
+    <footer>
+      <img
+        src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"
+        width="40"
+      />
+      <em
+        ><b>I love connecting with fellow developers!</b> If you want to
+        collaborate on a project or just say hi, feel free to reach out!</em
+      >
+    </footer>
+
+    <script>
+      const ctx = document.getElementById("contributionChart").getContext("2d");
+      const contributionChart = new Chart(ctx, {
+        type: "line",
+        data: {
+          labels: Array.from({ length: 30 }, (_, i) => `Day ${i + 1}`),
+          datasets: [
+            {
+              label: "Commits",
+              data: Array.from({ length: 30 }, () =>
+                Math.floor(Math.random() * 15)
+              ),
+              borderColor: "#58a6ff",
+              backgroundColor: "rgba(88, 166, 255, 0.2)",
+              fill: true,
+              tension: 0.4,
+              pointRadius: 4,
+              pointBackgroundColor: "#58a6ff",
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              labels: { color: "#c9d1d9" },
+            },
+          },
+          scales: {
+            x: {
+              ticks: { color: "#c9d1d9" },
+              grid: { color: "rgba(255,255,255,0.05)" },
+            },
+            y: {
+              ticks: { color: "#c9d1d9" },
+              grid: { color: "rgba(255,255,255,0.05)" },
+            },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
